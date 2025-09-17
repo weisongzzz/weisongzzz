@@ -1,9 +1,9 @@
 # Weisong Zhang
 ## Health Data Scientist & Biomedical and Machine Learning Engineer
 
-🔬 Passionate about App development, robotics, LLM
+🔬 Passionate about Robotics & VLA model
 
-📊 Experienced in Python, R, MatLab, SQL, GPT, and AutoCAD
+📊 Experienced in Python, R, MatLab, SQL, GPT, and CAD
 
 🎓 MS in Health Data Science from University of California, San Francisco
 
@@ -12,7 +12,6 @@
 ### Skills
 - Python (pandas, numpy, scikit-learn)
 - Machine Learning
-- SQL & Database Management
 - Data Visualization (Matplotlib, Seaborn)
 - Statistical Analysis, Bayesian Inference
 
