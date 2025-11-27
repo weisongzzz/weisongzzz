@@ -1,7 +1,7 @@
 # Weisong Zhang
-## Health Data Scientist & Biomedical and Machine Learning Engineer
+## Health Data Scientist / Machine Learning Engineer
 
-🔬 Passionate about Robotics & VLA model
+🔬 Passionate about Robotics & Topological Data Analysis
 
 📊 Experienced in Python, R, MatLab, SQL, GPT, and CAD
 
@@ -17,3 +17,5 @@
 
 ### Contact
 [LinkedIn](www.linkedin.com/in/weisong-zhang-1a2396177)
+
+Please take a look at my pinned repository!
