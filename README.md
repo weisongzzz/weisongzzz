@@ -1,9 +1,7 @@
 # Weisong Zhang
 ## Health Data Scientist / Machine Learning Engineer
 
-🔬 Passionate about Robotics & Topological Data Analysis
-
-📊 Experienced in Python, R, MatLab, SQL, GPT, and CAD
+📊 Experienced in Python, R, MatLab, SQL, GPT
 
 🎓 MS in Health Data Science from University of California, San Francisco
 
